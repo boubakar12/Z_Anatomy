@@ -1,0 +1,10 @@
+target,model,mean_r2,fold_scores
+Dissolved Reactive Phosphorus,random_forest,0.14475100607064414,"0.2062, 0.2372, 0.2823, 0.3326, -0.3345"
+Dissolved Reactive Phosphorus,extra_trees,0.14187681172418645,"0.1362, 0.1944, 0.2693, 0.2981, -0.1887"
+Dissolved Reactive Phosphorus,ridge,0.06279190323278319,"0.0616, -0.0386, 0.1053, 0.1415, 0.0441"
+Electrical Conductance,extra_trees,0.34006787023291973,"0.2285, 0.4133, 0.4095, 0.3935, 0.2555"
+Electrical Conductance,random_forest,0.3347556435535489,"0.2752, 0.4294, 0.4384, 0.3656, 0.1652"
+Electrical Conductance,ridge,0.11690951711598771,"-0.0054, 0.0770, 0.2307, 0.1585, 0.1238"
+Total Alkalinity,extra_trees,0.3712922824314407,"0.2365, 0.1698, 0.3929, 0.5415, 0.5158"
+Total Alkalinity,random_forest,0.3541370295285008,"0.2019, 0.1622, 0.4528, 0.5520, 0.4018"
+Total Alkalinity,ridge,0.20495485744509273,"0.0598, -0.0231, 0.2889, 0.2851, 0.4141"

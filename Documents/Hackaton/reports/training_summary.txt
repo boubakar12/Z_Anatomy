@@ -1,0 +1,11 @@
+Enhanced training run summary
+=============================
+Rows (train): 9319
+Rows (submission): 200
+Feature count: 60
+Mean of best CV R2 across 3 targets: 0.28537
+
+Top model by target:
+- Dissolved Reactive Phosphorus: random_forest (mean_r2=0.14475)
+- Electrical Conductance: extra_trees (mean_r2=0.34007)
+- Total Alkalinity: extra_trees (mean_r2=0.37129)
